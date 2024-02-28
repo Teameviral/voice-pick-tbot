@@ -34,7 +34,7 @@ logger.setLevel(logging.DEBUG)
 
 class Config(object):
     def __init__(self) -> None:
-        self.token = ""
+        self.token = "7164789309:AAGXZK2Czhu14O9cuFBNrVv5MVm3tyOdeeI"
         self.user_id_set: set = set()
         self.keep_cache = False
         self.high_vram = True
