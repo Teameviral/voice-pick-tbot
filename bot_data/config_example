@@ -1,8 +1,8 @@
 [Main]
 # Token string for telegram api
-TOKEN = YOUR_BOT_TOKEN
+TOKEN = "7164789309:AAGXZK2Czhu14O9cuFBNrVv5MVm3tyOdeeI"
 # 64-bit int id or list of ids for specified user/users private usage, comment out the line to make the bot public
-USER_ID = YOUR_ID_LIST
+USER_ID = ""
 # for multiple users use following format: USER_ID = some_id_numer1, some_id_number2
 
 [Tortoise]
